@@ -1,0 +1,26 @@
+Domain,Questions
+Artificial Intelligence,What is a neural network?
+Artificial Intelligence,Explain the concept of overfitting.
+Artificial Intelligence,How does a random forest work?
+Artificial Intelligence,What is supervised learning?
+Artificial Intelligence,Describe unsupervised learning.
+Data Science,What is a support vector machine?
+Data Science,How do you handle missing data?
+Data Science,Explain cross-validation.
+Data Science,What is gradient descent?
+Data Science,How does a decision tree work?
+Machine Learning,Explain the concept of reinforcement learning.
+Machine Learning,What is a confusion matrix?
+Machine Learning,Describe the bias-variance tradeoff.
+Machine Learning,What is the difference between supervised and unsupervised learning?
+Machine Learning,Explain the working of K-Means clustering.
+Deep Learning,What is a convolutional neural network?
+Deep Learning,Explain the concept of transfer learning.
+Deep Learning,How does a recurrent neural network work?
+Deep Learning,What is the role of activation functions?
+Deep Learning,Describe the vanishing gradient problem.
+Generative AI,What is a GAN (Generative Adversarial Network)?
+Generative AI,Explain the concept of autoregressive models.
+Generative AI,How does GPT (Generative Pre-trained Transformer) work?
+Generative AI,What is a VAE (Variational Autoencoder)?
+Generative AI,Describe diffusion models.
